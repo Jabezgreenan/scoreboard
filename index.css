@@ -36,11 +36,12 @@ body {
 }
 
 .score {
+    
     background-color: #080001;
     color: #F94F6D;
     border-radius: 3px;
     width: 80px;
-    
+    font-size: 60px;
     text-align: center;
     padding: 5px 20px;
     margin: 0 0 15px 0 ;
